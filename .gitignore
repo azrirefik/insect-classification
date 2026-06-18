@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+cifar-100-python/
+cifar-100-python.tar.gz
+data/
+tmp/
+*.log
+paper/fyp_paper_filled.tex
+paper/paper_filled.tex
+paper/*.aux
+paper/*.toc
+paper/*.lof
+paper/*.lot
+paper/*.out
